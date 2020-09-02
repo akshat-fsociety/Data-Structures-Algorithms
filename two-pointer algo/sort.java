@@ -45,7 +45,7 @@ class GFG {
 		    for(i=0;i<n;i++){
 		        a[i] = sc.nextInt();
 		    }
-            Arrays.sort(a);  //sorting with thecomplexity of O(nlog(n))
+            Arrays.sort(a);  //sorting with the time complexity of O(nlog(n))
             for(int e:a)
             System.out.print(e+" ");
             System.out.println();
