@@ -1,4 +1,4 @@
-/*Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
+/*Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order
 
 Input:
 The first line contains an integer 'T' denoting the total number of test cases. Then T testcases follow. Each testcases contains two lines of input. The first line denotes the size of the array N. The second lines contains the elements of the array A separated by spaces.
