@@ -2,6 +2,7 @@
 
 Example 1:
 
+
 Input:
 N = 3
 value[] = {1,3,4}
