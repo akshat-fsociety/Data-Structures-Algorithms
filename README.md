@@ -1,2 +1,2 @@
-# gfg-dsa
-***Will push some more questions shortly :)***
+# DSA PRACTICE
+```Repository is under progress :rocket:```
