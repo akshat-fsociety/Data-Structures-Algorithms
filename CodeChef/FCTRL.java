@@ -1,6 +1,7 @@
 //https://www.codechef.com/LRNDSA01/problems/FCTRL
 /* package codechef; // don't place package name! */
 
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
