@@ -3,9 +3,9 @@
 Repository is under progress...🚀 💻<br><br><br>
 Codechef<img align="right" alt="CodeChef" width="60px" src="https://api.iconify.design/simple-icons:codechef.svg"/><br><br><br>
 Codeforces<img align="right" alt="Codeforces" width="60px" src="https://api.iconify.design/simple-icons:codeforces.svg"/><br><br><br>
-GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://api.iconify.design/simple-icons:geeksforgeeks.svg?color=green"/><br>
+GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://api.iconify.design/simple-icons:geeksforgeeks.svg?color=green"/><br><br>
 </h2>
-<hr>
+
 
 <h2>CodeChef Problems Set 💥</h2>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHPINTU.java">CHPINTU</a><br>
