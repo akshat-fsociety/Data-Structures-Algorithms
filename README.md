@@ -6,7 +6,8 @@ Codeforces<img align="right" alt="Codeforces" width="60px" src="https://api.icon
 GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://api.iconify.design/simple-icons:geeksforgeeks.svg?color=green"/><br>
 </h2>
 <hr>
-<h2>CodeChef Problems 💥</h2>
+
+<h2>CodeChef Problems Set 💥</h2>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHPINTU.java">CHPINTU</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CONFLIP.java">CONFLIP</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/FLOW016.java">FLOW016</a><br>
@@ -20,3 +21,12 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Oct-Long-Challenge/CHEFEZQ.java">CHEFEZQ</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Oct-Long-Challenge/CVDRUN.java">CVDRUN</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Strings/Lapindrome.java">LAPINDROME</a><br>
+
+<h2>Codeforces Problems Set 💥</h2>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/69A.java">Young Physicist</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/80A.java">Panoramix Prediction</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/110A.java">Nearly Lucky Number</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/236A.java">Beautiful Matrix</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/271A.java">Beautiful Year</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/281A.java">Word Capitalization</a><br>
+
