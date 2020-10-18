@@ -21,6 +21,8 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Oct-Long-Challenge/CHEFEZQ.java">CHEFEZQ</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Oct-Long-Challenge/CVDRUN.java">CVDRUN</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Strings/Lapindrome.java">LAPINDROME</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHFM.java">CHFM</a><br>
+
 
 <h2>Codeforces Problems Set 💥</h2>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/69A.java">Young Physicist</a><br>
