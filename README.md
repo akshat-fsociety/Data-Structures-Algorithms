@@ -23,6 +23,8 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Strings/Lapindrome.java">LAPINDROME</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHFM.java">CHFM</a><br>
 
+<p>Under Construction⚠</p>
+
 
 <h2>Codeforces Problems Set 💥</h2>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/69A.java">Young Physicist</a><br>
@@ -32,3 +34,8 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/271A.java">Beautiful Year</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/281A.java">Word Capitalization</a><br>
 
+<p>Under Construction⚠</p>
+
+
+Made with ❤ by the Coder for the Coders.<br>
+Built with ☕ Java
