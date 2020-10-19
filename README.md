@@ -22,6 +22,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Oct-Long-Challenge/CVDRUN.java">CVDRUN</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/Strings/Lapindrome.java">LAPINDROME</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHFM.java">CHFM</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/MSNSADM1.java">MSNSADM1</a><br>
 
 <p>Under Construction⚠</p>
 
