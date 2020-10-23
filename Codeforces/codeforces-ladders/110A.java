@@ -1,5 +1,6 @@
 //https://codeforces.com/problemset/problem/110/A
 
+
 import java.util.*;
 public class luckyNum {
     public static void main(String[] args) throws java.lang.Exception {
