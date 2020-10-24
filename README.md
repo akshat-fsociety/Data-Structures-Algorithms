@@ -38,6 +38,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/155A.java">I_love_%username%</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/tree/master/Codeforces/codeforces-ladders">Cupboards</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/281A.java">Word Capitalization</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/1426A.java">Floor Number</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/1426D.java">Non-zero Segments</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/1426E.java">Rock, Paper, Scissors</a><br>
 
