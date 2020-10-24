@@ -36,6 +36,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/236A.java">Beautiful Matrix</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/271A.java">Beautiful Year</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/155A.java">I_love_%username%</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/tree/master/Codeforces/codeforces-ladders">Cupboards</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/281A.java">Word Capitalization</a><br>
 
 <p>Under Construction⚠</p>
