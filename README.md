@@ -30,16 +30,16 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 
 
 <h2>Codeforces Problems Set 💥</h2>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/69A.java">Young Physicist</a><br>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/80A.java">Panoramix Prediction</a><br>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/110A.java">Nearly Lucky Number</a><br>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/236A.java">Beautiful Matrix</a><br>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/271A.java">Beautiful Year</a><br>
-<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/155A.java">I_love_%username%</a><br>
-<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/tree/master/Codeforces/codeforces-ladders">Cupboards</a><br>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/281A.java">Word Capitalization</a><br>
-<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/282A.java">Bit++</a><br>
-<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/1426A.java">Floor Number</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/69A.java">Young Physicist</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/80A.java">Panoramix Prediction</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/110A.java">Nearly Lucky Number</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/236A.java">Beautiful Matrix</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/271A.java">Beautiful Year</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/155A.java">I_love_%username%</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/tree/master/Codeforces/codeforces-laddersLadder%20A/248A.java">Cupboards</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/281A.java">Word Capitalization</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/282A.java">Bit++</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1426A.java">Floor Number</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/1426D.java">Non-zero Segments</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/1426E.java">Rock, Paper, Scissors</a><br>
 
