@@ -40,8 +40,8 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/281A.java">Word Capitalization</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/282A.java">Bit++</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1426A.java">Floor Number</a><br>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/1426D.java">Non-zero Segments</a><br>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/1426E.java">Rock, Paper, Scissors</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20D/1426D.java">Non-zero Segments</a><br>
+<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20E/1426E.java">Rock, Paper, Scissors</a><br>
 
 <p>Under Construction⚠</p>
 
