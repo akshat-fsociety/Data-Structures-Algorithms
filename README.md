@@ -26,7 +26,6 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/CHEFSTR1.java">CHEFSTR1</a><br>
 <a href = "https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/LCH15JAB.java">LCH15JAB</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/CRDGAME.java">CRDGAME</a><br>
-<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1228.java">Distinct Digits</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/MSNSADM1.java">MSNSADM1</a><br>
 
 <p>Under Construction⚠</p>
@@ -51,6 +50,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/34A.java">Reconnaissance 2</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/watermelon(A).java">Watermelon</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/318A.java">Even Odds</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1228.java">Distinct Digits</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/272A.java">Dima and Friends</a><br>
 
 <p>Under Construction⚠</p>
