@@ -53,6 +53,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1228.java">Distinct Digits**</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/205A.java">Little Elephant and Rozdil</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1401.java">Distance and Axis</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1397.java">Juggling Letters</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/272A.java">Dima and Friends</a><br>
 <br>
 <p>Under Construction⚠</p>
