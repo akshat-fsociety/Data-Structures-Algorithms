@@ -89,12 +89,14 @@ Now create a branch using the git checkout command:
 For example:
 
 ```git checkout -b dev_username```<br>
+
 <h4>Make necessary changes and commit those changes 🚏</h4>
 ```git add .```<br>
-Now commit
-```git commit -m "<Add your message here>"```
+Now commit<br>
+```git commit -m <Add your message here>```<br>
+
 <h4>Push changes to GitHub 🪂</h4>
-```git push origin <branch-name>```<br>
+```git push origin <branch-name>``` <br>
 replacing <branch-name> with the name of the branch you created earlier.
   
   <h4>Hoorayy!🎉</h4>
