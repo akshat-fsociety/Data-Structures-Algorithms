@@ -6,7 +6,9 @@ Codeforces<img align="right" alt="Codeforces" width="60px" src="https://api.icon
 GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://api.iconify.design/simple-icons:geeksforgeeks.svg?color=green"/><br><br>
 </h2>
 
-
+<h3>Programming Language</h3>
+<img align="left" alt="Java" width="150px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<br><br><br><br><br><br>
 <h2>CodeChef Problems Set 💥</h2>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHPINTU.java">CHPINTU</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CONFLIP.java">CONFLIP</a><br>
