@@ -72,7 +72,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <p>⚠ Under Construction ⚠</p>
 
 
-Made with ❤ by the Coder for the Coders.<br>
+Made with ❤for all the Coders.<br>
 Built with Java ☕
 
 <h3>Want to Contribute?</h3>
@@ -115,5 +115,5 @@ Now commit<br>
 
 replacing <branch-name> with the name of the branch you created earlier.
   
-  <h4>Hoorayy!🎉</h4>
+  <h1>Hoorayy!🎉</h1>
   
