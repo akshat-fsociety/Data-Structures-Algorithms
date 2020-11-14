@@ -36,7 +36,8 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <p>⚠ Under Construction ⚠</p>
 
 
-<h2>Codeforces Problems Set 💥</h2>
+<h2>Codeforces Problems Set 💥</h2><br>
+<h3>A</h3>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/69A.java">Young Physicist</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/80A.java">Panoramix Prediction</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/110A.java">Nearly Lucky Number</a><br>
@@ -63,12 +64,14 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/320A.java">Magic Numbers</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1285.java">Mezo Playing Zoma</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1433.java">Boring Apartments</a><br>
-<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/34B.java">Sale</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/260A.java">Adding Digits</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1392A.java">Omkar and Password</a><br>
 <a href = "https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1173A.java">Nauuo and Votes</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1438.java">Specific Tastes of Andre</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/272A.java">Dima and Friends</a><br>
+<h3>B</h3>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/34B.java">Sale</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/1438B.java">Valerii Against Everyone</a><br>
 <br>
 <p>⚠ Under Construction ⚠</p>
 
