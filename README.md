@@ -70,6 +70,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1438.java">Specific Tastes of Andre</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/750A.java">New Year and Hurry</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1447A.java">Add Candies</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1440A.java">Buy The Strings</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/959(A).java">Mahmoud and Ehab and the even-odd game</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/272A.java">Dima and Friends</a><br>
 <h3>B</h3>
