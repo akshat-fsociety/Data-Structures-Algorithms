@@ -31,6 +31,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/ADADISH.java">ADADISH</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/RESTORE.java">RESTORE**</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/FEMA2.java">FEMA2</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/SEGM01.java">SEGM01</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/MSNSADM1.java">MSNSADM1</a><br>
 <br>
 <p>⚠ Under Construction ⚠</p>
@@ -77,7 +78,6 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <h3>B</h3>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/34B.java">Sale</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/1438B.java">Valerii Against Everyone</a><br>
-<br>
 <h3>C</h3>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20C/1452C.java">Two Brackets
 </a><br><br>
