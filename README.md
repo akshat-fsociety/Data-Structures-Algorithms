@@ -78,6 +78,9 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/34B.java">Sale</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/1438B.java">Valerii Against Everyone</a><br>
 <br>
+<h3>C</h3>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20C/1452C.java">Two Brackets
+</a><br>
 <p>⚠ Under Construction ⚠</p>
 
 
