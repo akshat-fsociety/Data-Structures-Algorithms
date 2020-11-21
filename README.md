@@ -37,7 +37,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <p>⚠ Under Construction ⚠</p>
 
 
-<h2>Codeforces Problems Set 💥</h2><br>
+<h2>Codeforces Problems Set 💥</h2>
 <h3>A</h3>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/69A.java">Young Physicist</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/Codeforces/codeforces-ladders/Ladder%20A/80A.java">Panoramix Prediction</a><br>
