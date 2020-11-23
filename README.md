@@ -74,6 +74,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1452A.java">Robot Program</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1440A.java">Buy The Strings</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/486A.java">Calcualting Function</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/525A.java">Vitaliy and Pie</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/1061A.java">Coins</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/959(A).java">Mahmoud and Ehab and the even-odd game</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20A/272A.java">Dima and Friends</a><br>
