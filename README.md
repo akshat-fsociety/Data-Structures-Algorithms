@@ -32,6 +32,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/RESTORE.java">RESTORE**</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/FEMA2.java">FEMA2</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/SEGM01.java">SEGM01</a><br>
+<>a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Prefix-Sum%20Algo/BLONDIE.java">BLONDIE</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/MSNSADM1.java">MSNSADM1</a><br>
 <br>
 <p>⚠ Under Construction ⚠</p>
