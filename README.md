@@ -1,4 +1,4 @@
-# Data Structures & Alogrithms Practice 💢
+# Data Structures & Algorithms Practice 💢
 <h2>
 Repository is under progress...🚀 💻<br><br><br>
 Codechef<img align="right" alt="CodeChef" width="60px" src="https://api.iconify.design/simple-icons:codechef.svg"/><br><br><br>
