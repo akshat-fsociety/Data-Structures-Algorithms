@@ -34,7 +34,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/SEGM01.java">SEGM01</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Prefix-Sum%20Algo/BLONDIE.java">BLONDIE</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/VACCINE1.java">VACCINE1</a><br>
-<a herf="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Sliding-Window/GreedyDD.java">ECAPR206</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Sliding-Window/GreedyDD.java">ECAPR206</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/MSNSADM1.java">MSNSADM1</a><br>
 <br>
 <p>⚠ Under Construction ⚠</p>
