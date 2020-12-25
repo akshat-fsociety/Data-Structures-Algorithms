@@ -22,7 +22,7 @@ class FastReaderTemplate2 {
       
       /*********************** Main **********************/
       
-      pt.println();
+      pw.println();
 		} 
  
 		pw.close(); 
