@@ -35,6 +35,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Prefix-Sum%20Algo/BLONDIE.java">BLONDIE</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/ATTENDU.java">ATTENDU</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/VACCINE1.java">VACCINE1</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/ENC2020A.java">ENC2020A</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Sliding-Window/GreedyDD.java">ECAPR206</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/MSNSADM1.java">MSNSADM1</a><br>
 <br>
