@@ -95,6 +95,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/266B.java">Queue at the School</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/1465B.java">Fair Numbers</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/1438B.java">Valerii Against Everyone</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20B/1466B.java">Last minute enhancements</a><br>
 <h3>C</h3>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20C/4C.java">Registeration System</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Codeforces/codeforces-ladders/Ladder%20C/1452C.java">Two Brackets
