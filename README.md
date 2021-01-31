@@ -40,6 +40,7 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/Sliding-Window/GreedyDD.java">ECAPR206</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/BILLRD.java">BILLRD</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/MSNSADM1.java">MSNSADM1</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/PASSWD.java">PASSWD</a><br>
 <br>
 <p>⚠ Under Construction ⚠</p>
 
