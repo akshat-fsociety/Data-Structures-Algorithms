@@ -1,4 +1,5 @@
 // https://practice.geeksforgeeks.org/problems/coin-change2448/1#
+// Unbounded Knapsack Variation
 
 class Solution
 {
