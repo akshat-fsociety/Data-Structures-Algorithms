@@ -17,12 +17,12 @@ class FastReaderTemplate2 {
  
 		int t=in.readInt(); 
 		while(t-->0){
-      int n=in.readInt(); 
-      int k=in.readInt();
-      
-      /*********************** Main **********************/
-      
-      pw.println();
+		      int n=in.readInt(); 
+		      int k=in.readInt();
+
+		      /*********************** Main **********************/
+
+		      pw.println();
 		} 
  
 		pw.close(); 
