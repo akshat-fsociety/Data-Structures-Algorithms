@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+
 class GFG
 {
     ArrayList<Long> find(long a[], int n, int x)
