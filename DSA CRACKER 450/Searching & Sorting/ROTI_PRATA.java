@@ -1,3 +1,5 @@
+// https://www.spoj.com/problems/PRATA/
+
 import java.io.*; 
 import java.util.*; 
 import java.text.*; 
