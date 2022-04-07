@@ -1,16 +1,18 @@
 # Data Structures & Algorithms Practice 💢
 <h2>
-Repository is under progress...🚀 💻<br><br><br>
+Repository is under progress...🚀 💻<br><br>
+Star this Repository ⭐<br><br>
 Codechef<img align="right" alt="CodeChef" width="60px" src="https://api.iconify.design/simple-icons:codechef.svg"/><br><br><br>
 Codeforces<img align="right" alt="Codeforces" width="60px" src="https://api.iconify.design/simple-icons:codeforces.svg"/><br><br><br>
-GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://api.iconify.design/simple-icons:geeksforgeeks.svg?color=green"/><br><br>
+GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://api.iconify.design/simple-icons:geeksforgeeks.svg?color=black"/><br><br><br>
+LeetCode<img align="right" alt="GeeksforGeeks" width="60px" src="https://api.iconify.design/simple-icons:leetcode.svg?color=black"/><br><br>
 </h2>
 
 <h3>Programming Language</h3>
 <img align="left" alt="Java" width="150px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <br><br><br><br><br><br>
 <h2>CodeChef Problems Set 💥</h2>
-<a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHPINTU.java">CHPINTU</a><br>
+<!-- <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CHPINTU.java">CHPINTU</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/CONFLIP.java">CONFLIP</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/FLOW016.java">FLOW016</a><br>
 <a href="https://github.com/akshat-fsociety/DSA-practice/blob/master/CodeChef/LADDU.java">LADDU</a><br>
@@ -43,10 +45,20 @@ GeeksforGeeks<img align="right" alt="GeeksforGeeks" width="60px" src="https://ap
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/PASSWD.java">PASSWD</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/COCONUT.java">COCONUT</a><br>
 <a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/CHFHEIST.java">CHFHEIST</a><br>
-<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/SUMPOS.java">SUMPOS</a><br>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/blob/master/CodeChef/SUMPOS.java">SUMPOS</a><br> -->
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/tree/master/CodeChef">CODECHEF SOLUTIONS</a><br>
 <br>
 <p>⚠ Under Construction ⚠</p>
+<br>
+<h2>Love Babbar 450 Questions Set 💥</h2>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/tree/master/DSA%20CRACKER%20450">SOLUTIONS</a>
+<p>⚠ Under Construction ⚠</p>
+<br>
 
+<h2>Striver's SDE Questions Set 💥</h2>
+<a href="https://github.com/akshat-fsociety/Data-Structures-Algorithms/tree/master/StriverSDE">SOLUTIONS</a>
+<p>⚠ Under Construction ⚠</p>
+<br>
 
 <h2>Codeforces Problems Set 💥</h2>
 <h3>A</h3>
